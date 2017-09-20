@@ -3,7 +3,7 @@ package local_test
 import (
 	"path/filepath"
 
-	"github.com/cloudfoundry-community/gogobosh/local"
+	"github.com/olitvin/gogobosh/local"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

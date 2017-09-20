@@ -3,8 +3,8 @@ package api
 import (
 	"fmt"
 
-	"github.com/cloudfoundry-community/gogobosh/models"
-	"github.com/cloudfoundry-community/gogobosh/net"
+	"github.com/olitvin/gogobosh/models"
+	"github.com/olitvin/gogobosh/net"
 )
 
 // GetTaskStatuses returns a list of most recent task statuses

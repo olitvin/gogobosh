@@ -1,6 +1,6 @@
 package gogobosh
 
-import "github.com/cloudfoundry-community/gogobosh/models"
+import "github.com/olitvin/gogobosh/models"
 
 // NewDirector constructs a Director
 func NewDirector(targetURL string, username string, password string) (director models.Director) {

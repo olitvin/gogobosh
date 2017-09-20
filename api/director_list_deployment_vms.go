@@ -3,8 +3,8 @@ package api
 import (
 	"fmt"
 
-	"github.com/cloudfoundry-community/gogobosh/models"
-	"github.com/cloudfoundry-community/gogobosh/net"
+	"github.com/olitvin/gogobosh/models"
+	"github.com/olitvin/gogobosh/net"
 )
 
 func (repo BoshDirectorRepository) ListDeploymentVMs(deploymentName string) (deploymentVMs []models.DeploymentVM, apiResponse net.ApiResponse) {

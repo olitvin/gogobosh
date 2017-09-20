@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cloudfoundry-community/gogobosh/models"
-	"github.com/cloudfoundry-community/gogobosh/net"
+	"github.com/olitvin/gogobosh/models"
+	"github.com/olitvin/gogobosh/net"
 )
 
 func (repo BoshDirectorRepository) FetchVMsStatus(deploymentName string) (vmsStatuses []models.VMStatus, apiResponse net.ApiResponse) {

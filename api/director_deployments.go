@@ -7,8 +7,8 @@ import (
 
 	"launchpad.net/goyaml"
 
-	"github.com/cloudfoundry-community/gogobosh/models"
-	"github.com/cloudfoundry-community/gogobosh/net"
+	"github.com/olitvin/gogobosh/models"
+	"github.com/olitvin/gogobosh/net"
 )
 
 // GetDeployments returns a list of deployments, and the releases/stemcells being used

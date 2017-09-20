@@ -1,7 +1,7 @@
 package net
 
 import (
-	"github.com/cloudfoundry-community/gogobosh/constants"
+	"github.com/olitvin/gogobosh/constants"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	"runtime"

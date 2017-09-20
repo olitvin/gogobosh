@@ -4,10 +4,10 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/cloudfoundry-community/gogobosh"
-	"github.com/cloudfoundry-community/gogobosh/api"
-	"github.com/cloudfoundry-community/gogobosh/net"
-	"github.com/cloudfoundry-community/gogobosh/utils"
+	"github.com/olitvin/gogobosh"
+	"github.com/olitvin/gogobosh/api"
+	"github.com/olitvin/gogobosh/net"
+	"github.com/olitvin/gogobosh/utils"
 )
 
 func main() {

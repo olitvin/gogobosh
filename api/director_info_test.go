@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	"github.com/cloudfoundry-community/gogobosh/api"
-	"github.com/cloudfoundry-community/gogobosh/models"
-	"github.com/cloudfoundry-community/gogobosh/net"
-	"github.com/cloudfoundry-community/gogobosh/testhelpers"
+	"github.com/olitvin/gogobosh/api"
+	"github.com/olitvin/gogobosh/models"
+	"github.com/olitvin/gogobosh/net"
+	"github.com/olitvin/gogobosh/testhelpers"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )
