@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"time"
 
-	"launchpad.net/goyaml"
+	goyaml "github.com/go-yaml/yaml"
 
 	"github.com/olitvin/gogobosh/models"
 	"github.com/olitvin/gogobosh/net"

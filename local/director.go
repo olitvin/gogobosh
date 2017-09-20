@@ -6,7 +6,7 @@ import (
 	"os/user"
 	"path/filepath"
 
-	"launchpad.net/goyaml"
+	goyaml "github.com/go-yaml/yaml"
 )
 
 // BoshConfig describes a local ~/.bosh_config file
